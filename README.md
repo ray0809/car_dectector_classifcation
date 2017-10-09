@@ -32,6 +32,6 @@ example1:
 ![pic1](https://github.com/ray0809/car_dectector_classifcation/blob/master/t.jpg)
 
 example2:
-![pic2](https://github.com/ray0809/car_dectector_classifcation/blob/master/t.jpg)
+![pic2](https://github.com/ray0809/car_dectector_classifcation/blob/master/tt.jpg)
 
 
