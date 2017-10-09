@@ -13,9 +13,9 @@ The code is written by [CarND-Vehicle-Detection](https://github.com/ksketo/CarND
 
 
 # classification part
-Here InceptionV3 is used for classifying
-training:8144 pics
-testing:8041
+Here InceptionV3 is used for classifying,the inputs come from ssd network<br>
+training:8144 pics<br>
+testing:8041<br>
 
 # training
 if you want to run the code,some path you should change to fit your own dataset<br>
@@ -29,9 +29,9 @@ run prediction.py
 
 # examples
 example1:
-![pic1]()
+![pic1](https://github.com/ray0809/car_dectector_classifcation/blob/master/t.jpg)
 
 example2:
-![pic2]()
+![pic2](https://github.com/ray0809/car_dectector_classifcation/blob/master/t.jpg)
 
 
